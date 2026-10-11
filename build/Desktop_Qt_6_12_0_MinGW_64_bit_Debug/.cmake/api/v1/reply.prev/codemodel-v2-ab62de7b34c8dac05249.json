@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LibraryOOP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-core-Debug-d76e315add90b4a8ebd3.json",
+					"name" : "core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "core_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-core_autogen-Debug-84c3ad67123efc3c06cd.json",
+					"name" : "core_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "core_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-core_autogen_timestamp_deps-Debug-d9ea8bfd18694c853263.json",
+					"name" : "core_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_console::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_console-Debug-dbe728922e6c39cd78f2.json",
+					"name" : "library_console",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_console_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_console_autogen-Debug-9ca77401cc51ec990669.json",
+					"name" : "library_console_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_console_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_console_autogen_timestamp_deps-Debug-2b844192b92f98bac8fc.json",
+					"name" : "library_console_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_gui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_gui-Debug-f9101cb3c692a1d5e6dd.json",
+					"name" : "library_gui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_gui_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_gui_autogen-Debug-a0cbb9df90e21098f100.json",
+					"name" : "library_gui_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_gui_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_gui_autogen_timestamp_deps-Debug-2588e865907b39687556.json",
+					"name" : "library_gui_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/LibraryOOP/LibraryOOP/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/LibraryOOP/LibraryOOP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,2 @@
+D:\QT\Tools\mingw1310_64\bin\ar.exe qc libcore.a CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.obj CMakeFiles/core.dir/src/LibraryItem.cpp.obj CMakeFiles/core.dir/src/Member.cpp.obj CMakeFiles/core.dir/src/Library.cpp.obj
+D:\QT\Tools\mingw1310_64\bin\ranlib.exe libcore.a

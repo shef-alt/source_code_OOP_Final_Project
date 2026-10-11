@@ -1,0 +1,3 @@
+D:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\library_console.dir/objects.a
+D:\QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\library_console.dir/objects.a @CMakeFiles\library_console.dir\objects1.rsp
+D:\QT\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\library_console.dir/objects.a -Wl,--no-whole-archive -o library_console.exe -Wl,--out-implib,liblibrary_console.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\library_console.dir\linkLibs.rsp
